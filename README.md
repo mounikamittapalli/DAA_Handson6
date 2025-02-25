@@ -5,8 +5,8 @@
 
 
 
-2.[benchmarking_non-randomized_quicksort](https://github.com/mounikamittapalli/DAA_Handson6/blob/83d5d00d79858d4b9b2e3b843c84f7096bddbbd4/benchmarking%20quicksort%20algorithms.png)  
- [output](https://github.com/mounikamittapalli/DAA_Handson6/blob/83d5d00d79858d4b9b2e3b843c84f7096bddbbd4/Screen%20Shot%202025-02-25%20at%2012.42.04%20PM.png)  
+2.[benchmarking_non-randomized_quicksort](https://github.com/mounikamittapalli/DAA_Handson6/blob/3b414b9e18212ff0775478124c4952da3e5f00da/benchmarking_Non_randomized_quicksort.py)
+ [output](https://github.com/mounikamittapalli/DAA_Handson6/blob/83d5d00d79858d4b9b2e3b843c84f7096bddbbd4/benchmarking%20quicksort%20algorithms.png) 
 
 
 3.Mathematically derive the average runtime complexity of the non-random pivot version of quicksort.
